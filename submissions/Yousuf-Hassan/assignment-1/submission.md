@@ -2,7 +2,7 @@
 
 - **Name:** Yousuf Hassan Osman 
 - **GitHub username:** Yousuf-Hassan
-- **Repository URL:** https://github.com/Yousuf-Hassan/lesson-2-practice
+- **Repository URL:** https://github.com/Yousuf-Hassan/git-github-practice
 
 ## Confirmation
 
