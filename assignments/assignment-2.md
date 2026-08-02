@@ -34,8 +34,6 @@ Add GitHub Actions to **`git-github-practice`**. Before you submit, confirm:
 
 `https://github.com/your-username/git-github-practice/actions/runs/12345678901`
 
-Example: [github.com/sharafdin/demo-practice/actions/runs/30714957271](https://github.com/sharafdin/demo-practice/actions/runs/30714957271)
-
 ---
 
 ## What to add (quick checklist)
