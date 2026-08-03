@@ -1,7 +1,7 @@
 # Assignment 2 — GitHub Actions
 
 - **Name:** Nasteho Abdi Aden
-- **GitHub username:** Nastehoabdiaden46-ally
+- **GitHub username:**nastehoabdiaden46-a11y
 - **Repository URL:** https://github.com/nastehoabdiaden46-a11y/learning-git-and-github
 - **Actions run URL:** https://github.com/nastehoabdiaden46-a11y/learning-git-and-github/actions/runs/30808022561
 
