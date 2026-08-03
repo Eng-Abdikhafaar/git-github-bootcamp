@@ -6,7 +6,7 @@ Create submissions/your-username/assignment-2/submission.md:
 - **Name:** Abdulkadir Mohumed Hussein
 - **GitHub username:** aarhooyo
 - **Repository URL:** https://github.com/aarhooyo/website-with-html-and-css/
-- **Actions run URL:** https://github.com/aarhooyo/website-with-html-and-css/actions/runs/30839059116
+- **Actions run URL:** https://github.com/aarhooyo/website-with-html-and-css/actions/runs/30843491144
 ## Confirmation
 
 - [x] `STUDENT_NAME` variable is set on GitHub
