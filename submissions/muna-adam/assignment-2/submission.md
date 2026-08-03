@@ -1,6 +1,6 @@
 # Assignment 2 — GitHub Actions
 
-- **Name:** Maymuun Aadan
+- **Name:** Maymuun Aadan mohamed
 - **GitHub username:** muna-adam
 - **Repository URL:** https://github.com/muna-adam/github-branch-practice
 - **Actions run URL:** https://github.com/muna-adam/github-branch-practice/actions/runs/30796259031/job/91630414392
