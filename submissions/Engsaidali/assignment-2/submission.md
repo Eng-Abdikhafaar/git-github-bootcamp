@@ -1,14 +1,21 @@
-# Assignment 2 — GitHub Actions
+name: Hello Workflow
 
-- **Name:** Eng Said Ali
-- **GitHub username:** Engsaidali
-- **Repository URL:** https://github.com/Engsaidali/projectgithub
-- **Actions run URL:** https://github.com/Engsaidali/projectgithub/actions/runs/30882683039
+on:
+  push:
 
-## Confirmation
+jobs:
+  hello:
+    runs-on: ubuntu-latest
 
-- [x] `STUDENT_NAME` variable is set on GitHub
-- [x] `.github/workflows/hello.yml` is in the repository
-- [x] At least one workflow run shows a green check in Actions
-- [x] Workflow log shows my name in the greeting
-- [x] Actions run URL above opens a successful run on my repo
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Count files
+        run: |
+          COUNT=$(find . -path ./.git -prune -o -type f -print | wc -l)
+          echo "FILES=$COUNT" >> $GITHUB_ENV
+
+      - name: Greet Student
+        run: |
+          echo "Hello ${{ vars.STUDENT_NAME }}, your files count are $FILES"
