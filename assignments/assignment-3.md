@@ -1,6 +1,6 @@
 # Assignment: GitHub Profile
 
-**Due:** Saturday, August 16, 2026 — 12:00 PM (Africa/Mogadishu / EAT)
+**Due:** Saturday, August 8, 2026 — 12:00 PM (Africa/Mogadishu / EAT)
 
 **Goal:** Build a professional **GitHub profile** — sidebar, pinned repos, profile README, and activity overview — following [Bonus 8 — GitHub Profile](../bonus/08-github-profile.md).
 
