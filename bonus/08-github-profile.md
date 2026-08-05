@@ -2,7 +2,7 @@
 
 > A strong GitHub profile = **consistent username**, filled **Edit profile** sidebar, **pinned repos**, and a **profile README** (`username/username`).
 
-**Prerequisites:** [Lesson 7](../lessons/07-gitignore-and-project-organization.md), [Lesson 10](../lessons/10-putting-it-all-together.md)
+**Prerequisites:** [Lesson 7](../lessons/07-gitignore-and-project-organization.md)
 
 ---
 
@@ -20,7 +20,7 @@ Profile → **Edit profile** — photo, full name, one-sentence bio, location, w
 Learning Git & GitHub · Building web projects · Goobo Labs bootcamp
 ```
 
-**Pin** up to 6 finished repos (e.g. `git-github-practice`, capstone, an OSS contribution).
+**Pin** up to 6 finished repos (e.g. `git-github-bootcamp`, `git-github-practice`, an OSS contribution).
 
 ---
 
@@ -58,7 +58,9 @@ Someone with commits **and** issues, PRs, and reviews looks like a real collabor
 1. Create a **public** repo named exactly your username (`sharafdin/sharafdin`)
 2. Add `README.md` — it renders above your pins
 
-Keep it short: who you are, 2–3 project links, how to reach you. Skip huge badge walls and animated widgets at first.
+Keep it short: who you are, 2–3 project links, how to reach you.
+
+You **can** add anything — tables, images, **animations**, custom styling. That is fine. What usually **does not** work is a README **taller than your profile sidebar** (the left column with photo and bio). Long animated profiles push pins down and make recruiters hunt for your repos. Shorter is better; animations sparingly if at all.
 
 ---
 
@@ -88,6 +90,8 @@ If you would not use it on a project **this month**, leave it off. Same for "Cur
 | Profile README repo is private | Must be **public** |
 | Repo name ≠ username | Must match exactly |
 | 20+ redundant skills | Quality over quantity |
+| README longer than sidebar | Trim content — pins should stay visible without long scrolling |
+| Heavy animations / badge walls | Optional, but they bloat the page — projects matter more |
 | Empty sidebar, README only | Fill **Edit profile** and pins too |
 | Activity overview turned off | Enable it in **Contribution settings** — shows repos, orgs, and PR/issue/review split |
 | Only commit counts, no OSS activity | Open issues, submit PRs, review others — not just local commits |
