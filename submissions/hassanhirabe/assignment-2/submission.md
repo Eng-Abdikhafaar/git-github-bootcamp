@@ -1,7 +1,7 @@
-- **Name:** H
-- **GitHub username:** hasiim1
-- **Repository URL:**https://github.com/hasiim1/assignments-and-practices
-- **Actions run URL:** https://github.com/hasiim1/assignments-and-practices/actions/runs/30849380723/job/91805417998
+- **Name:** Hassan Ali Yusuf
+- **GitHub username:** hassanhirab
+- **Repository URL:**https://github.com/hassanhirabe/assignments-and-practices
+- **Actions run URL:** https://github.com/hassanhirabe/assignments-and-practices/actions/runs/30849380723/job/91805417998
 
 ## Confirmation
 
