@@ -1,9 +1,9 @@
 # Assignment 2 — GitHub Actions
 
 - **Name:** Abdirahman yonis mohamud 
-- **GitHub username:** yonisyare905-jpg
-- **Repository URL:** https://github.com/yonisyare905-jpg/git-github-Assignment-1.git
-- **Actions run URL:** https://github.com/yonisyare905-jpg/git-github-Assignment-1/actions/runs/30820390336
+- **GitHub username:** ibnuyoniz
+- **Repository URL:** https://github.com/ibnuyoniz/git-github-Assignment-1
+- **Actions run URL:** https://github.com/ibnuyoniz/git-github-Assignment-1/actions/runs/30820390336
 
 ## Confirmation
 
