@@ -2,7 +2,7 @@
 
 - **Name:** Alas Abdullahi Duqow
 - **GitHub username:** Alas-duqow
-- **Profile URL:** https://github.com/Alas-duqow?tab=overview&from=2025-12-01&to=2025-12-31
+- **Profile URL:** https://github.com/Alas-duqow
 - **Profile README repo URL:** https://github.com/Alas-duqow/Alas-duqow/blob/main/README.md
 
 ## Confirmation
