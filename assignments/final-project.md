@@ -75,7 +75,6 @@ Create `submissions/your-username/final-project/submission.md`:
 - **Name:** Your Full Name
 - **GitHub username:** your-username
 - **Repository URL:** https://github.com/your-username/your-project
-- **Workflow run URL:** https://github.com/your-username/your-project/actions/runs/xxxxxxxx
 
 ## Confirmation
 
