@@ -6,20 +6,6 @@
 
 ---
 
-## Prerequisites
-
-Complete these before you submit:
-
-| **Lesson / work** | **What you need from it** |
-| ----------------- | ------------------------- |
-| Lessons 0–9 | Full local + remote Git workflow, branching, collaboration, PRs, `.gitignore`, open source workflows, GitHub Actions |
-| [Assignment 1](assignment-1.md) | Local Git fundamentals (commits, branches, authorship) |
-| [Assignment 2](assignment-2.md) | A working GitHub Actions workflow |
-
-This assignment uses a **new** repository — not `git-github-practice`, not your Assignment 1 or 2 repo.
-
----
-
 ## The project
 
 Pick anything — a personal site, notes, a script, plain text files, whatever you like. Same rule as Assignment 1 and 2: the **content doesn't matter**, any file type is fine (`.md`, `.txt`, `.html`, `.py`, images, whatever). **We are not grading what you build. We are grading how you use Git and GitHub** — commit quality, branching, PRs, issues, review, and automation, done the way real teams do it.
