@@ -2,7 +2,7 @@
 
 - **Name:** mohamed Salad Mohamud
 - **GitHub username:** Mohamedsalad1010
-- **Repository URL:** https://github.com/Mohamedsalad1010
+- **Repository URL:** https://github.com/Mohamedsalad1010/final-project-git
 
 ## Confirmation
 
