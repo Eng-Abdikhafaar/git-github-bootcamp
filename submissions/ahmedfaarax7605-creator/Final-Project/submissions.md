@@ -2,7 +2,7 @@
 
 - **Name:** Ahmed Faarah Abdilaahi
 - **GitHub username:** ahmedfaarax7605-creator
-- **Repository URL:** https://github.com/hmedfaarax7605-creator/Freelancer
+- **Repository URL:** https://github.com/ahmedfaarax7605-creator/Freelancer
 
 ## Confirmation
 
