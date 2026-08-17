@@ -2,7 +2,7 @@
 
 - **Name:** Suleiman Osman
 - **GitHub username:** SuleimanGJ
-- **Repository URL:** https://github.com/SuleimanGJ/todo-api
+- **Repository URL:** https://github.com/SuleimanGJ/git-github-capstone
 
 ## Confirmation
 
